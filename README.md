@@ -1,6 +1,8 @@
 # Installation
 *Make sure to install the requirements with 
-pip install -r requirements.txt . 
+```bash
+pip install -r requirements.txt 
+```
 Note : Tenseflow needs a 64 bit version of python
 
 
